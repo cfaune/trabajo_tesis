@@ -6,6 +6,15 @@
     <p>Rut: {{paciente.rut}}</p>
     <p>Prevision: {{paciente.prevision.nombre}}</p>
     <p>Cobertura: {{paciente.prevision.cobertura}}%</p>
+    <p>Diagnosticos:</p>
+    <ul>
+    {% for diagnostico in diagnosticos %}
+        <li>Nombre: {{diagnostico.nombre}}</li>
+        <li>Situacion: {{diagnostico.situacion}}</li>
+        <li>Fecha: {{diagnostico.fecha_diagnostico}}</li>
+
+    {% endfor %}
+    </ul>
 {% else %}
     <p>Numero de ficha no encontrado</p>
 {% endif %}

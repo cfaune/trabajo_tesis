@@ -13,9 +13,11 @@ def index(request):
 
 def detail(request, paciente_numero_ficha):
     paciente = Paciente.objects.filter(numero_ficha=paciente_numero_ficha).first()
+    diagnosticos = Diagnostico.objects.filter(paciente=paciente)
     template = loader.get_template('pacientes/detail.html')
     context = RequestContext(request, {
         'paciente': paciente,
+        'diagnosticos': diagnosticos
     })
     return HttpResponse(template.render(context))
 
