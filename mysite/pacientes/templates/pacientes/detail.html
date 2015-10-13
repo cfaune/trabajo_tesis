@@ -1,0 +1,11 @@
+{% if paciente %}
+    <center><h1>Numero de ficha: {{paciente.numero_ficha}}</h1></center>
+    <p>Nombre: {{paciente.nombre}}</p>
+    <p>Apellido Paterno: {{paciente.apellido_paterno}}</p>
+    <p>Apellido Materno: {{paciente.apellido_materno}}</p>
+    <p>Rut: {{paciente.rut}}</p>
+    <p>Prevision: {{paciente.prevision.nombre}}</p>
+    <p>Cobertura: {{paciente.prevision.cobertura}}%</p>
+{% else %}
+    <p>Numero de ficha no encontrado</p>
+{% endif %}

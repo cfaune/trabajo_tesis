@@ -1,0 +1,9 @@
+{% if lista_pacientes %}
+    <ul>
+    {% for paciente in lista_pacientes %}
+        <li><a href="/pacientes/{{ paciente.numero_ficha }}/">{{paciente.numero_ficha}}</a> {{paciente.nombre}} {{paciente.rut}} {{paciente.prevision.nombre}}</li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No hay pacientes registrados</p>
+{% endif %}
