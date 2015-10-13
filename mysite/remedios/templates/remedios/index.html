@@ -1,0 +1,10 @@
+{% if latest_remedio_list %}
+    <ul>
+    {% for remedio in latest_remedio_list %}
+        <li><a href="/remedios/{{ remedio.id }}/">{{ remedio.name }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No remedios are available.</p>
+{% endif %}
+
