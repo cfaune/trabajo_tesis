@@ -1,0 +1,575 @@
+	CIRUGIA																																														
+	2014-05-01 00:00:00																																														
+																																															
+CODART	MEDICAMENTO	UD	$ UNIT	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	TOTAL	$ TOTAL											
+2130001	ABACAVIR 20 MG X ML.ZIAGEN	FC	=VLOOKUP(A5,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=SUM(E5:AI5)	=AJ5*D5											
+2130003	ABACAVIR 300mg-ZIDOVUDINA 300mg-LAMIVUDI	CM	=VLOOKUP(A6,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=SUM(E6:AI6)	=AJ6*D6											
+2130315	ABACAVIR 600MG+LAMIVUDINA 300MG	CP	=VLOOKUP(A7,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140264	AC. TRANEXAMICO 1 GR.  BEBIBLE REG ISP	AM	1788																																=	=											
+2170281	AC. URSODEOXICOLICO 250 MG/5 ML SUSP	FC	=VLOOKUP(A9,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140014	AC. URSODEOXICOLICO 250MG  RANURADOS ISP	CM	=VLOOKUP(A10,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140002	ACENOCUMAROL  4MG REG ISP	CM	=VLOOKUP(A11,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160004	ACETATO SODIO 30%10 ML.REG.ISP	AM	259																																=	=											
+2140003	ACETAZOLAMIDA 250 MG RANURADOS REG ISP	CM	=VLOOKUP(A13,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130006	ACICLOVIR 200 MG REG I.S.P.	CM	=VLOOKUP(A14,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160302	ACICLOVIR 250 MG REG ISP	FA	=VLOOKUP(A15,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160303	ACICLOVIR 500 MG REG ISP	FA	=VLOOKUP(A16,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140004	ACIDO ACETILSALICILICO 100MG REG ISP	CM	=VLOOKUP(A17,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140366	ACIDO ACETILSALICILICO 325MG	CM	99																																=	=											
+2140005	ACIDO ACETILSALICILICO 500MG REG ISP	CM	=VLOOKUP(A19,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140006	ACIDO ASCORBICO 100 MG. REG ISP	CM	=VLOOKUP(A20,[1]Hoja3!$A$4:$C$653,3,FALSE)		18						6	9			66	6	8	5	15			5	12		10	41			10	16	10	10	30		=SUM(E20:AH20)	=											
+2140008	ACIDO FOLICO 1 MG REG ISP	CM	=VLOOKUP(A21,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=SUM(E21:AH21)	=											
+2140323	ACIDO FOLICO 5 MG	CM	=VLOOKUP(A22,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=SUM(E22:AH22)	=											
+2140009	ACIDO FOLINICO 15 MG.	CP	=VLOOKUP(A23,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140011	ACIDO MEFENAMICO 500MG	CM	=VLOOKUP(A24,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160010	ACIDO TRANEXAMICO 1GR AM 10ML REG ISP	AM	=VLOOKUP(A25,[1]Hoja3!$A$4:$C$653,3,FALSE)						4							1	1																		=	=											
+2140012	ACIDO TRANEXAMICO 250 MG. REG ISP	CM	=VLOOKUP(A26,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170002	ACIDO VALPROICO 10MG/ML FC 20 ML REG ISP	FC	=VLOOKUP(A27,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140015	ACIDO VALPROICO 200 MG. CM RANURADOS ISP	CM	=VLOOKUP(A28,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170003	ACIDO VALPROICO 250MG JBE. 120ML REG ISP	FC	3820																																=	=											
+2160005	ACIDO VALPROICO 500 MG.	FA	=VLOOKUP(A30,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130293	ADEFOVIR 10MGCM	CM	=VLOOKUP(A31,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160013	ADENOSINA 6 MG/2 ML(TRICOR) REG ISP	FA	=VLOOKUP(A32,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130014	ALBENDAZOL 200 MG REG I.S.P.	CM	=VLOOKUP(A33,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2180011	ALBUMINA 20 %  50  ML	FC	=VLOOKUP(A34,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2110015	FC	=VLOOKUP(A35,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2110020	FC	=VLOOKUP(A36,[1]Hoja3!$A$4:$C$653,3,FALSE)					18				20						20							19				20				20		=	=											
+	FC	203																																=	=											
+2180113	ALIMENTACION PARENTERAL 3/1 1440 ML	ML	44888																																=	=											
+2140019	ALOPURINOL 100 MG CM RANURADOS REG ISP	CM	=VLOOKUP(A39,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2120002	ALPRAZOLAM 0,5 MG REG I.S.P.	CM	7																																=	=											
+2140021	ALUMIMIO HIDROXIDO 500MG	CM	17																																=	=											
+2170010	ALUMINIO HIDROXIDO JBE 250ML REG ISP	FC	811																																=	=											
+2130017	AMIKACINA 100 MG/2ML REG I.S.P.	FC	=VLOOKUP(A43,[1]Hoja3!$A$4:$C$653,3,FALSE)					2	3	1		1	3	2	3	3	3	1							1				1						=	=											
+2130018	AMIKACINA 500 MG/2ML REG I.S.P.	FC	=VLOOKUP(A44,[1]Hoja3!$A$4:$C$653,3,FALSE)					2	2	2	2				2				1	1		1	1							3	2	2	6		=	=											
+2180014	AMINOACIDO PEDIATRICO 250 ML.	FC	=VLOOKUP(A45,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2180017	AMINOACIDOS 10 % 500 ML	FC	=VLOOKUP(A46,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160022	AMINOFILINA 250 MG REG ISP	AM	=VLOOKUP(A47,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160023	AMIODARONA 150 MG 3ML REG ISP	AM	143																																=	=											
+2140024	AMIODARONA 200 MG	CM	=VLOOKUP(A49,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140025	AMITRIPILINA 25 MG	CM	5																																=	=											
+2130273	AMOXI/ CLAVULANICO 250MG/5ML 	FC	2340																																=	=											
+2130022	AMOXICILINA 250 MG/5ML 60 ML 14 DIAS REF	FC	=VLOOKUP(A52,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130024	AMOXICILINA 500 MG REG I.S.P.	CM	=VLOOKUP(A53,[1]Hoja3!$A$4:$C$653,3,FALSE)																														28		=	=											
+2130026	AMOXICILINA 500MG/5ML JARABE	FC	=VLOOKUP(A54,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130027	AMOXICILINA 500MG-CLAVULANICO 125 MG	CM	218																																=	=											
+2130274	AMOXICILINA AC. CLAVULANICO 0.6 MGI ISP	FA	=VLOOKUP(A56,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130030	FA	=VLOOKUP(A57,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130285	AMOXI-CLAVULANICO DUO Fte70 ml	FC	=VLOOKUP(A58,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130023	AMOXI-CLAVULANICO DUO Fte35 ml	FC	=VLOOKUP(A59,[1]Hoja3!$A$4:$C$653,3,FALSE)	1								2						1	2			2									2		1	1	=	=											
+2130031	AMOXI-CLAVULANICO DUO 800/57	CM	=VLOOKUP(A60,[1]Hoja3!$A$4:$C$653,3,FALSE)					10		8			10			10	18	30	10	10	10							10			14	8			=	=											
+2130283	AMPICILINA 500 MG INY.  REG ISP	FA	=VLOOKUP(A61,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130263	AMPI-SULBACTAM  1,5 GR REG UNASYN 	FC	7071																																=	=											
+2130035	ANFOTERICINA B 50 MG. REG I.S.P.	FC	=VLOOKUP(A63,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130298	ANIDULAFUNGINA 100MG	FA	=VLOOKUP(A64,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170018	SP	=VLOOKUP(A65,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130292	ATAZANAVIR 150 MG CAP	CP	3292																																=	=											
+2130166	ATAZANAVIR 300 MG	CM	=VLOOKUP(A67,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140029	ATENOLOL  50MG	CM	=VLOOKUP(A68,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160030	ATROPINA SULFATO 1 MG/ML AM REG ISP	AM	=VLOOKUP(A69,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140031	AZATIOPRINA 50 MG CM RANURADOS REG ISP	CM	=VLOOKUP(A70,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=SUM(E70:AI70)	=AJ70*D70											
+2130313	AZITROMICINA 200MG/ 5ML, X 30ML	FC	=VLOOKUP(A71,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130037	AZITROMICINA 500MG	CM	=VLOOKUP(A72,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130307	AZITROMICINA SUSP 200MG/15ML	MG	=VLOOKUP(A73,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130286	AZTREONAN 1 GR. INY.  REG ISP	FA	11781																																=	=											
+2160034	AZUL DE METILENO 1% AM  5 ML.	AM	=VLOOKUP(A75,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140032	AZULFIDINE EN  500 MG	CM	=VLOOKUP(A76,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140035	BACLOFENO 10 MG.	CM	=VLOOKUP(A77,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140344	BACLOFENO 5 MG	CP	100																																=	=											
+2130038	BACITRACINA/ NEOMICINA/ O.ZINC	PM	=VLOOKUP(A79,[1]Hoja3!$A$4:$C$653,3,FALSE)		1																														=	=											
+2160312	BASILIXIMAB 20 MG LIOFILIZADO REG ISP	AM	=VLOOKUP(A80,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170114	BERODUAL INHALADOR	FC	=VLOOKUP(A81,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130045	BETAMETASONA 3MG-ACET. DE BETAMETASONA	FC	=VLOOKUP(A82,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130046	BETAMETASONA 4MG/1ML  AM VIDRIO NO BP	AM	=VLOOKUP(A83,[1]Hoja3!$A$4:$C$653,3,FALSE)											2	3																				=	=											
+2130311	BETAMETASONA GOTAS	FC	=VLOOKUP(A84,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140354	BICARBONATO DE SODIO 1 GR	CP	=VLOOKUP(A85,[1]Hoja3!$A$4:$C$653,3,FALSE)					3	3	3	3	9																							=	=											
+2140381	BICARBONATO DE SODIO 250MG	CP	=VLOOKUP(A86,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140356	BICARBONATO SODIO 500MG	CP	=VLOOKUP(A87,[1]Hoja3!$A$4:$C$653,3,FALSE)													3	3	3		4															=	=											
+2140036	BIOTINA 10 MG.	CP	=VLOOKUP(A88,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200014	BOTOX TOXINA BOTULINICA	FA	=VLOOKUP(A89,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170032	BUDESONIDA 200 MG NO COREANO, NI INDU	FC	=VLOOKUP(A90,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160044	BUPIVACAINA  0,5%/10ML FA REG ISP	FC	=VLOOKUP(A91,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160048	BUPIVACAINA 0,75%/ 2ML HIPERBARICA ISP	AM	=VLOOKUP(A92,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160327	BUSCAPINA 20 MG / 1 ML	AM	=VLOOKUP(A93,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140351	CABERGOLINA 0,5 MG CM	CM	10351																																=	=											
+2140311	CALCIO ACETATO 667 MG PHOSLO	CM	=VLOOKUP(A95,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140018	CALCITROL 0,25 MCG	CP	=VLOOKUP(A96,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140047	CALCITRIOL 0,5 MCG.	CM	=VLOOKUP(A97,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160053	CALCITROL CALCIYEK E/V	AM	=VLOOKUP(A98,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130050	CAPOFUNGINA 70MG	FC	=VLOOKUP(A99,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140042	CAPTOPRIL 25MG CM RANURADOS REG ISP	CM	=VLOOKUP(A100,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140376	CAPTOPRIL 3 MG CP FRACCIONAMIENTO	CP	=VLOOKUP(A101,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140043	CARBAMAZEPINA 200MG CM RANURADOS ISP	CM	=VLOOKUP(A102,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170253	CARBAMAZEPINA JARABE	FC	5821																																=	=											
+2150141	CARBON ACTIVADO 10GR.	SO	=VLOOKUP(A104,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2150140	CARBON ACTIVADO 30GR.	SO	=VLOOKUP(A105,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140041	CARBONATO DE CALCIO 320 MG CAPSULAS ISP	CM	=VLOOKUP(A106,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140045	CARBONATO DE CALCIO 450 MG CAPSULAS ISP	CM	=VLOOKUP(A107,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140313	CARVEDILOL 25 MG	CM	=VLOOKUP(A108,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140312	CARVEDILOL 6,25 MG	CM	=VLOOKUP(A109,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130049	CASPOFUNGINA 50 MG	FC	=VLOOKUP(A110,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130052	CEFADROXILO 250MG/5ML 14 DIAS REFRIGERAD	FC	=VLOOKUP(A111,[1]Hoja3!$A$4:$C$653,3,FALSE)				1			4		1		1		2	3	1				1	2	1	1	1	2	1		1	2	1		1	=	=											
+2130053	CEFADROXILO 500 MG, CAP REG. ISP	CP	=VLOOKUP(A112,[1]Hoja3!$A$4:$C$653,3,FALSE)						20				14																						=	=											
+2130306	CEFADROXILO 500 MG,COMP RANURADO	CM	109													2	2	2	6			2													=	=											
+2130054	CEFAZOLINA   1 GR REG ISP	FC	=VLOOKUP(A114,[1]Hoja3!$A$4:$C$653,3,FALSE)				3	7	6	3	6	7		3	4	2	3	5	2		2		2	1	3	4				4	4	1			=	=											
+2130055	CEFEPIME  1GR REG ISP	FC	=VLOOKUP(A115,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130056	CEFEPIME  2GR	FC	=VLOOKUP(A116,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130061	FC	=VLOOKUP(A117,[1]Hoja3!$A$4:$C$653,3,FALSE)																						2	20			8	13	8	3	3		=	=											
+2130067	CEFTAZIDINA 1 G REG ISP FA AMBAR	FC	=VLOOKUP(A118,[1]Hoja3!$A$4:$C$653,3,FALSE)																										3						=	=											
+2130068	CEFTRIAXONA 1 G REG ISP FA AMBAR	FC	=VLOOKUP(A119,[1]Hoja3!$A$4:$C$653,3,FALSE)		2										1	1			8																=	=											
+2160057	CIANOCOBALAMINA 0,1MG/1ML REG ISP	AM	=VLOOKUP(A120,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2190076	CICLOFOSFAMIDA 1 GR.	FA	=VLOOKUP(A121,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2190003	CICLOFOSFAMIDA 20 MG CAP.	AM	979																																=	=											
+2190012	CICLOFOSFAMIDA 50MG	CM	=VLOOKUP(A123,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140052	CICLOSPORINA   25 MG	CP	=VLOOKUP(A124,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140053	CICLOSPORINA   50 MG	CP	=VLOOKUP(A125,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140054	CICLOSPORINA 100 MG	CP	=VLOOKUP(A126,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140327	CICLOSPORINA NEORAL 10 MG	CP	=VLOOKUP(A127,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140325	CICLOSPORINA NEORAL 100 MG	CP	=VLOOKUP(A128,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170039	CICLOSPORINA NEORAL 100MG/ML SOL ORAL	FC	=VLOOKUP(A129,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140318	CICLOSPORINA NEORAL 25 MG	CP	=VLOOKUP(A130,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140319	CICLOSPORINA NEORAL 50 MG	CP	=VLOOKUP(A131,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130071	CIPROFLOXACINO  200MG SOL INY. REG ISP	FC	=VLOOKUP(A132,[1]Hoja3!$A$4:$C$653,3,FALSE)							2					5	5	3	2	6																=	=											
+2130072	CIPROFLOXACINO  250 MG RANURADO REG ISP	CM	=VLOOKUP(A133,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130073	CIPROFLOXACINO  500 MG RANURADO REG ISP	CM	=VLOOKUP(A134,[1]Hoja3!$A$4:$C$653,3,FALSE)					2	2		2	6		2	5																				=SUM(E134:AI134)	=AJ134*D134											
+2190017	CITARABINA 100 MG LIQUIDA.	FA	=VLOOKUP(A135,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130078	CLARITROMICINA 250 MG/5ML	FC	=VLOOKUP(A136,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130079	CLARITROMICINA 500 MG REG ISP	CM	=VLOOKUP(A137,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130081	CLINDAMICINA  300 MG REG ISP	CP	=VLOOKUP(A138,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130083	CLINDAMICINA  600 MG/4ML REG ISP	AM	=VLOOKUP(A139,[1]Hoja3!$A$4:$C$653,3,FALSE)		9			6	3	6	3	9				6	6	6	9							8									=	=											
+2120007	CLONAZEPAM 0,5MG REG I.S.P.	CM	=VLOOKUP(A140,[1]Hoja3!$A$4:$C$653,3,FALSE)		3				1	1	1	3			1.5	1	1	1	1.5			1	5		1	3				1	1	1	3		=	=											
+2120008	CLONAZEPAM 2 MG CM REG I.S.P.	CM	=VLOOKUP(A141,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140064	CLONIDINA 0,100 MG	CM	=VLOOKUP(A142,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160063	CLONIXINATO LISINA 200MG/4ML REG ISP	AM	=VLOOKUP(A143,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140066	CLOPIDOGREL 75MG	CM	1385.2272																																=	=											
+2130085	CLORANFENICOL 1 GM/10ML REG ISP	FC	1744.1491																																=	=											
+2130086	CLORANFENICOL 125 MG/5ML REG ISP	FC	=VLOOKUP(A146,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130090	CLORANFENICOL 500 MG. REG ISP	CP	=VLOOKUP(A147,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160064	CLORFENAMINA 10MG/1ML REG ISP	AM	=VLOOKUP(A148,[1]Hoja3!$A$4:$C$653,3,FALSE)		3				1					2	3	3	3	3							1										=	=											
+2140068	CLORFENAMINA 4 MG CM RANURADOS REG ISP	CM	=VLOOKUP(A149,[1]Hoja3!$A$4:$C$653,3,FALSE)	6				4	1	1	1	3			5	1	9	1	3			1	9			14			1	1	1	1			=	=											
+2170291	CLORFENAMINA 2,5 MG/5 ML JBE	FC	=VLOOKUP(A150,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170048	CLORHEXIDINA SOL. (ORALGENE) FC X 120 ML	FC	=VLOOKUP(A151,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140073	CLORPROMAZINA   25 MG CM RANURADOS ISP	CM	=VLOOKUP(A152,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160066	CLORPROMAZINA 25 MG REG ISP	AM	=VLOOKUP(A153,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160067	CLORURO DE CALCIO 10% 10 ML	AM	225.1319																																=	=											
+2170233	CLORURO DE SODIO 30%250 ML.	FC	3429.6506																																=	=											
+2130092	CLOTRIMAZOL 1%	TU	=VLOOKUP(A156,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130097	CLOXACILINA 500 MG NO B.P. DISOL RAPIDA	FC	=VLOOKUP(A157,[1]Hoja3!$A$4:$C$653,3,FALSE)													3										30			12	12	12				=	=											
+2130098	CLOXACILINA 500 MG REG ISP	CP	31.0273																																=	=											
+2120059	G	=VLOOKUP(A159,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140075	COLECALCIFEROL 2000 UD.	CP	=VLOOKUP(A160,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130272	COLISTINE 100.000 UI	FA	=VLOOKUP(A161,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130280	COMBIVIR	CM	=VLOOKUP(A162,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160244	CONTRASTE NO IONICO 320MG RADIOMIRON	FC	=VLOOKUP(A163,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160074	CORTICOTROPINA 1MG/1ML REG  SYNACTHEN	AM	=VLOOKUP(A164,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130099	COTRIMOXASOL FORTE JBE 100 ML	FC	=VLOOKUP(A165,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130261	COTRIMOXAZOL  400/80MG REG ISP	CM	=VLOOKUP(A166,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130278	COTRIMOXAZOL 400 MG	AM																																	=	=											
+2130262	COTRIMOXAZOL 400/80MG SOL INY. REG ISP	AM	=VLOOKUP(A168,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130102	COTRIMOXAZOL SUSP. PEDIATRICA 60 ML	FC	=VLOOKUP(A169,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170128	CROTAMITON LAUNOL LOCION 60 ML. REG ISP	FC	=VLOOKUP(A170,[1]Hoja3!$A$4:$C$653,3,FALSE)																										1						=	=											
+2170129	CROTAMITON LAUNOL SHAMPOO 120 ML	FC	=VLOOKUP(A171,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160080	DANTROLENE INYECTABLE 20 MG REG ISP	FA	=VLOOKUP(A172,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140321	DAPSONA 20 MG	CP	=VLOOKUP(A173,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140365	DAPSONA 30MG	CP	=VLOOKUP(A174,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160082	DECANOATO DE NANDROLONA 50 MG REG ISP	AM	1244																																=	=											
+2140371	DEFERASIROX 250 MG EXJADE	CM	=VLOOKUP(A176,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140352	DEFERASIROX 500 MG CM EXJADE	CM	=VLOOKUP(A177,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160077	DELTEPARINA SODICA 10.000 UI/4ML REG ISP	FA	=VLOOKUP(A178,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160078	DELTEPARINA SODICA 2.500 UI/0,2MLREG ISP	FA	=VLOOKUP(A179,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160079	DELTEPARINA SODICA 5000 UI/0,2ML REG ISP	AM	=VLOOKUP(A180,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170058	DERMABIOTICO UNG.X 15 GR. REG ISP	TU	=VLOOKUP(A181,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140084	DESMOPRESINA  0,1MG CM RANURADOS ISP	CM	=VLOOKUP(A182,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140083	DESMOPRESINA 0,2 MG CM RANURADOS ISP	CM	=VLOOKUP(A183,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160310	DESMOPRESINA INYECTABLE 4 MCG/1MLREG ISP	AM	=VLOOKUP(A184,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140300	DESOGESTREL 150 MCG + EE 20 MCGMIDALET	CM	209.5522																																=	=											
+2130105	DEXAMETASONA 0,5 MG EST BIOEQUIVALENCIA	CM	157.4139																																=	=											
+2130296	DEXAMETASONA 4 MG	CM	=VLOOKUP(A187,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130107	DEXAMETASONA 4MG/ML REG ISP	AM	=VLOOKUP(A188,[1]Hoja3!$A$4:$C$653,3,FALSE)																												4				=	=											
+2130282	DEXAMETASONA COLIRIO REG ISP	FC	=VLOOKUP(A189,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160086	DIATRIZOATO DE MEGLUMINA 60% REG ISP	FC	=VLOOKUP(A190,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2120015	DIAZEPAM 10 MG REG I.S.P.	CM	=VLOOKUP(A191,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2120017	DIAZEPAM 10 MG/2 ML REG I.S.P.	AM	=VLOOKUP(A192,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140086	DICLOFENACO  50 MG	CM	=VLOOKUP(A193,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130109	DIDANOSINA 100mg	CM	707																																=	=											
+2130111	DIDANOSINA 4 GR.(VIDEX)	FC	=VLOOKUP(A195,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130110	DIDANOSINA 400MG CP	CP	=VLOOKUP(A196,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130347	DIDANOSINE DE 400MG	UD	1461																																=	=											
+2170063	DIGOXINA 0,05 X ML FC 60 ML REG ISP	FC	=VLOOKUP(A198,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=SUM(E198:AI198)	=AJ198*D198											
+2140091	DILTIAZEM 60 MG REG ISP	CM	=VLOOKUP(A199,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160092	DIPIRONA 1 GR (METAMIZOL) REG ISP	AM	=VLOOKUP(A200,[1]Hoja3!$A$4:$C$653,3,FALSE)		6	15	8	3	9	3	4	11	8	3	7	8	7	5	14	3	11	2	16	4	9	17	6	4	1	16	7		19	4	=	=											
+2160093	DOBUTAMIDA 250MG/5ML REG ISP	AM	=VLOOKUP(A201,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140095	DOMPERIDONA  10 MG CM RANURADOS REG ISP	CM	=VLOOKUP(A202,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170069	DOMPERIDONA 1MG/GOTA FC 10 ML REG ISP	FC	=VLOOKUP(A203,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160095	DOPAMINA 200 MG/5 ML REG ISP	AM	=VLOOKUP(A204,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140105	EET 30MCG + L - NORGESTREL 150 MCGANULETTE	CM	=VLOOKUP(A205,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130281	EFAVIRENZ 100 MG.	CM	=VLOOKUP(A206,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130118	EFAVIRENZ 200 MG	CP	=VLOOKUP(A207,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130121	EFAVIRENZ 30 MG/ML SOL.ORAL	FC	21806																																=	=											
+2130119	EFAVIRENZ 50mg	CP	=VLOOKUP(A209,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130304	EFAVIRENZ 600 MG	CM	=VLOOKUP(A210,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170072	ELIXOFILINA 80MG/15ML F 250ML	FC	=VLOOKUP(A211,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140099	ENALAPRILA 10 MG CM RANURADOS REG ISP	CM	=VLOOKUP(A212,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170074	ENEMA DESECHABLE PED. REG ISP	FC	=VLOOKUP(A213,[1]Hoja3!$A$4:$C$653,3,FALSE)							1																									=	=											
+2170076	ENEMA-FOSFATADO ORAL REG ISP	FC	=VLOOKUP(A214,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170142	ENDOFALK  POLVO53,03GR	SB	=VLOOKUP(A215,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140343	EPASAN FORTE	CP	350																																=	=											
+2160106	EPINEFRINA  1 MG/1ML REG ISP	AM	=VLOOKUP(A217,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130288	EPIVIR 150 MG	CP	=VLOOKUP(A218,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170079	ERGOCALCIFEROL VIT D 600.000 UI REG ISP	AM	447																																=	=											
+2130124	ERITROMICINA 200 MG/5ML  14 DIAS ESTAB.	FC	=VLOOKUP(A220,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130127	ERITROMICINA 500 MG REG ISP	CP	58.5356																																=	=											
+2160108	ERITROPOYETINA 1000UI NO REFRIGERADA ISP	AM	5002.9525																																=	=											
+2160109	ERITROPOYETINA 2000UI NO REFRIGERADA ISP	AM	=VLOOKUP(A223,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160314	ERITROPOYETINA 4000 UI	AM	=VLOOKUP(A224,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140103	ESPIRONOLACTONA 25MG CM RANURADO ISP	CM	=VLOOKUP(A225,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130129	ESTREPTOMICINA 1 GM	FC	1																																=	=											
+2130297	ETAMBUTOL 200 MG CM	CM	=VLOOKUP(A227,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140107	FENITOINA 100 MG LIBERACION RAPIDA ISP	CM	=VLOOKUP(A228,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160117	FENITOINA 250 MG FRASCO AMPOLLA REG ISP	FA	=VLOOKUP(A229,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2120019	FENOBARBITAL  15MG. REG I.S.P.	CM	=VLOOKUP(A230,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2120020	FENOBARBITAL 100 MG REG I.S.P. RANURADOS	CM	=VLOOKUP(A231,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2120021	FENOBARBITAL 200 MG REG I.S.P.	FA	=VLOOKUP(A232,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160120	FENOTEROL 0.50 MG/ 10 ML REG ISP	AM	=VLOOKUP(A233,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130131	FENOXIMETILPENICILINA 1.000.000 UI ISP	CM	109																																=	=											
+2120023	FENTANILO 0,1 MG/2ML REG I.S.P.	AM	=VLOOKUP(A235,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2120022	FENTANILO 0,5 MG/10ML REG I.S.P. FA.	AM	=VLOOKUP(A236,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170088	FERROSO SULFATO (CHELTIN)	FC	=VLOOKUP(A237,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140111	FERROSO SULFATO 200 MG REG ISP	CM	=VLOOKUP(A238,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160305	FILGASTRIN  300 MCG FOLTRAN	FA	=VLOOKUP(A239,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160122	FITOQUINONA 10MGX1ML REG ISP	AM	=VLOOKUP(A240,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200051	FLEBOGAMA 10GR	AM	=VLOOKUP(A241,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200025	FLEBOGAMA LIOF 2,5 (GAMAGLOBUL	FC	=VLOOKUP(A242,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200026	FLEBOGAMMA  I.V.  5 GR.	FA	=VLOOKUP(A243,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140378	FLECAINIDA 100MG	CM	=VLOOKUP(A244,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170287	FLECAINIDA 5ML/ML	FC	4700																																=	=											
+2170091	FLEET ENEMA DESECH 133 ML ENEMA	FC	=VLOOKUP(A246,[1]Hoja3!$A$4:$C$653,3,FALSE)											1	1							1	1	1			1								=	=											
+2130134	FLUCLOXACILINA 250 MG/5 ML 14 DIAS ESTAB	FC	=VLOOKUP(A247,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130135	FLUCLOXACILINA 500 MG. REG ISP	CP	=VLOOKUP(A248,[1]Hoja3!$A$4:$C$653,3,FALSE)							21			21																						=	=											
+2130136	FLUCONAZOL   50 MG REG ISP	CM	=VLOOKUP(A249,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130139	FLUCONAZOL 150 MG REG ISP	CP	=VLOOKUP(A250,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130142	FLUCONAZOL 200 MG. SOL INY. 100 ML.I.S.P	FC	=VLOOKUP(A251,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140112	FLUDROCORTISONA 0,1CM RANURADO	CM	=VLOOKUP(A252,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160126	FLUMAZENIL 0,5MG/5ML REG ISP	AM	=VLOOKUP(A253,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2120025	FLUNITRAZEPAM  2 MG. REG I.S.P.	CM	17																																=	=											
+2140115	FLUOXETINA 20 MG CM RANURADO REG ISP	CP	=VLOOKUP(A255,[1]Hoja3!$A$4:$C$653,3,FALSE)		3			1	1	1			3	1	1	1	1		3			1	2		1	3			1	1	1	1	3		=	=											
+2140282	FOSFATO DE SODIO 1 GR	CP	=VLOOKUP(A256,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140383	FOSFATO MONOSODICO 500 MG. CAPSULAS	CP	=VLOOKUP(A257,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130148	FURAZOLIDONA 50MG/5ML FORTE REG ISP	FC	756																																=	=											
+2160129	FUROSEMIDA 20 MG/1ML REG ISP	AM	=VLOOKUP(A259,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140120	FUROSEMIDA 40 MG CM RANURADO	CM	=VLOOKUP(A260,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170259	FUROSEMIDA JARABE	FC	=VLOOKUP(A261,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140121	GABAPENTINA 300 MG (DINEURIN)	CP	=VLOOKUP(A262,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=SUM(E262:AI262)	=AJ262*D262											
+2140243	GABAPENTINA 600 MG	CM	583																																=	=											
+2130153	GANCICLOVIR 500 MG REG ISP	FC	=VLOOKUP(A264,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130150	GENTAMICINA 3 MG/GR. UNG. OFTAL REG ISP	PM	=VLOOKUP(A265,[1]Hoja3!$A$4:$C$653,3,FALSE)															1				1													=	=											
+2130151	GENTAMICINA 3 MG/ML SOL.OFT REG ISP	FC	=VLOOKUP(A266,[1]Hoja3!$A$4:$C$653,3,FALSE)																								2								=	=											
+2130152	GENTAMICINA 80 MG/ 2ML REG ISP	AM	=VLOOKUP(A267,[1]Hoja3!$A$4:$C$653,3,FALSE)			9	3	5	4	5	6	30		12	14	17	16	5	21	6	5		3	4	5	27			5	6	9	4	20	6	=	=											
+2200058	GLUCAGON	FA	=VLOOKUP(A268,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2150064	GLUCOSA ANHIDRA USP COD. 1083469025	G	=VLOOKUP(A269,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140129	HALOPERIDOL 1MG CM RANURADO REG ISP	CM	=VLOOKUP(A270,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160140	HEPARINA 25.000 UI FA REG ISP	FA	=VLOOKUP(A271,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140131	HIDRALAZINA  50MG CM RANURADO REG ISP	CM	=VLOOKUP(A272,[1]Hoja3!$A$4:$C$653,3,FALSE)																										0.5	0.5	0.5	0.5	1.5		=	=											
+2170285	HIDRALAZINA 1 MG/ML JARABE	FC	=VLOOKUP(A273,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160145	HIDRALAZINA CLORHIDRATO 20 MG REG ISP	AM	2499																																=	=											
+2120027	G	=VLOOKUP(A275,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2120064	HIDRATO DE CLORAL SOL. 10%	LT	30000																																=	=											
+2140132	HIDROCLOROTIAZIDA  50MG CM RANURADO ISP	CM	=VLOOKUP(A277,[1]Hoja3!$A$4:$C$653,3,FALSE)					1	1		1	3																							=	=											
+2130156	HIDROCORTISONA 20 MG REG ISP CM RANURADO	CM	=VLOOKUP(A278,[1]Hoja3!$A$4:$C$653,3,FALSE)																										0.5	0.5	0.5	0.5	1.5		=	=											
+2130277	HIDROCORTISONA 500 MG INY.  REG ISP	FA	=VLOOKUP(A279,[1]Hoja3!$A$4:$C$653,3,FALSE)				1	1							1		1	1																	=	=											
+2130157	HIDROCORTISONA I % POMADA REG ISP	PM	=VLOOKUP(A280,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130276	HIDROCORTIZONA 100 MG INY.  REG ISP	FA	=VLOOKUP(A281,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130319	HIDROCORTIZONA 2,5 MG	CP	=VLOOKUP(A282,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130158	HIDROCORTIZONA 2MG	CP	280																																=	=											
+2140322	HIDROXICLOROQUINA 200 MG	CM	=VLOOKUP(A284,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140135	HIDROXIUREA 500 MG CM RANURADO REG ISP	CP	384																																=	=											
+2140136	IBUPROFENO  200 MG	CM	=VLOOKUP(A286,[1]Hoja3!$A$4:$C$653,3,FALSE)							5		38	9				5								1										=	=											
+2170111	IBUPROFENO 100 MG/ 5ML FC 60 ML REG ISP	FC	=VLOOKUP(A287,[1]Hoja3!$A$4:$C$653,3,FALSE)							1			2				2												1	2		1			=	=											
+2140137	IBUPROFENO 400 MG CM RECUBIERTO REG ISP	CM	=VLOOKUP(A288,[1]Hoja3!$A$4:$C$653,3,FALSE)		12				18	64				18		15		14		9		9				15	5	24	9				15	13	=	=											
+2130160	IMIPENEM 500 MG-CILASTATINA 500 MG ISP	FC	=VLOOKUP(A289,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140138	IMIPRAMINA 25MG CM RANURADO REG ISP	CM	=VLOOKUP(A290,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140139	INDOMETACINA 25 MG REG ISP	CM	=VLOOKUP(A291,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200060	INFANRIX HEXA	DO	27281																																=	=											
+2160151	INFLIXIMAB 100 MG/20 ML REMICADE REG ISP	FA	=VLOOKUP(A293,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200067	INSULINA CRIS. ULTRA RAPIDA 3 CC	FA	=VLOOKUP(A294,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200077	INSULINA CRIS. ULTRA RAPIDA LAPIZ PRELL 3 CC	UD	=VLOOKUP(A295,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200039	INSULINA CRISTALINA  3 ML	FA	=VLOOKUP(A296,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200040	INSULINA CRISTALINA 100UI/ML	FA	=VLOOKUP(A297,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200071	INSULINA GLARGINA HUMANA 10ML, FA	FA	=VLOOKUP(A298,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200072	INSULINA GLARGINA HUMANA 3ML, VIAL	FA	9187																																=	=											
+2200080	INSULINA GLARGINA LAPIZ 3ML (SANOFI)	UD	=VLOOKUP(A300,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200041	INSULINA LENTA 100 UI MONOTARD	FC	=VLOOKUP(A301,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200068	INSULINA LENTA 100 UI/3 ML	AM	=VLOOKUP(A302,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200078	INSULINA ULTR RAP. CARTUCHO 3ML (SANOFI)	UD	5117																																=	=											
+2200079	INSULINA ULTRA RAP. LAPIZ 3ML (SANOFI)	UD	=VLOOKUP(A304,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200057	INSULINA ULTRA RAPIDA	FA	=VLOOKUP(A305,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170116	IPATROPIO 0,02 MG   INH. NO INDU, NO COR	FC	=VLOOKUP(A306,[1]Hoja3!$A$4:$C$653,3,FALSE)																						1										=	=											
+2170115	IPATROPIO 0,025% SOL.NEBUL.20ML REG ISP	FC	=VLOOKUP(A307,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130162	ISONIAZIDA 100 MG CM RANURADO REG ISP	CM	=VLOOKUP(A308,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140267	ISOTRETINOINA 10 MG CAP BLANDAS REG ISP	CP	1393																																=	=											
+2140284	ISOTRETINOINA 20 MG CP BLANDAS REG ISP.	CM	=VLOOKUP(A310,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130163	ITRACONAZOL 100 MG. REG ISP	CP	=VLOOKUP(A311,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160157	KETAMINA 500MG/10ML REG ISP	FA	=VLOOKUP(A312,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160159	KETOPROFENO FA 100MG REG ISP	AM	=VLOOKUP(A313,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160160	KETOROLACO AM 30 MG REG ISP	AM	=VLOOKUP(A314,[1]Hoja3!$A$4:$C$653,3,FALSE)		20	16		14	24	13	11	29	14	11	26	20	17	16	39	8	14	10	41	8	11	45	9	5	9	32	16	4	31	10	=	=											
+2160161	KONAKION 10 MG REG ISP	AM	=VLOOKUP(A315,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170251	L - CARNITINA	ML	=VLOOKUP(A316,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160162	LABETALOL 100 MG.X 20 ML REG ISP	AM	=VLOOKUP(A317,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170126	LAMIVUDINA 10 MG/ML  EPIVIR	FC	13960																																=	=											
+2150073	LAPIZ NITRATO DE PLATA	UD	=VLOOKUP(A319,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2190035	LEUCOVORINA 50 MG AC.FOLINICO	FA	=VLOOKUP(A320,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140149	LEVOTIROXINA 100MCG CM RANURADO	CM	=VLOOKUP(A321,[1]Hoja3!$A$4:$C$653,3,FALSE)									2																							=	=											
+2140281	LEVOTIROXINA 25 MG CM	CM	=VLOOKUP(A322,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160168	LIDOCAINA 2 % 5 CC REG ISP	AM	=VLOOKUP(A323,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170131	LIDOCAINA 4 % FC 10 ML REG ISP	FC	2962																																=	=											
+2130170	LINEZOLID  2 MG/ML  300 ML  (ZYVOX)	AM	=VLOOKUP(A325,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130171	LINEZOLID 600 MG	CM	=VLOOKUP(A326,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=SUM(E326:AI326)	=AJ326*D326											
+2180087	LIPIDOS 20 % 500 ML	FC	=VLOOKUP(A327,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2180123	LIPIDOS 20% 250 ML	FC	=VLOOKUP(A328,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130287	LOFINAVIR/RITONAVIR	CA	=VLOOKUP(A329,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170139	LOPERAMIDA GOTAS 10 ML.	FC	1517																																=	=											
+2120029	LORAZEPAM 2MG. REG I.S.P.	CM	=VLOOKUP(A331,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2120031	LORAZEPAM 4MG/ 2ML REFRIGERADO	AM	=VLOOKUP(A332,[1]Hoja3!$A$4:$C$653,3,FALSE)																															2	=	=											
+2140283	LOSARTAN 50 MG CM 	CM	=VLOOKUP(A333,[1]Hoja3!$A$4:$C$653,3,FALSE)					1	1		1	1	3																						=	=											
+2150076	MAGNESIO SULFATO	MG	=VLOOKUP(A334,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130173	MEBENDAZOL 100 MG REG ISP	CM	=VLOOKUP(A335,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140155	MEDROXIPROGESTERONA   5 MG	CP	=VLOOKUP(A336,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160178	MEDROXIPROGESTERONA 500 MG REG ISP	FC	4675																																=	=											
+2120033	MEPERIDINA 100MG/2ML PETIDINA	AM	=VLOOKUP(A338,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2190070	MERCAPTOPURINA 50 MG.	CM	=VLOOKUP(A339,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130174	MEROPENEM  500 MG.	FC	=VLOOKUP(A340,[1]Hoja3!$A$4:$C$653,3,FALSE)																										3						=	=											
+2130175	MEROPENEN 1000 MG. REG ISP	FC	=VLOOKUP(A341,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140324	MESALAZINA 250 MG	CM	=VLOOKUP(A342,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140271	MESALAZINA 500 MG	CM	=VLOOKUP(A343,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2190038	MESNA 400 MG.	AM	=VLOOKUP(A344,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2120034	METADONA 10 MG/ 2 ML REG I.S.P.	AM	=VLOOKUP(A345,[1]Hoja3!$A$4:$C$653,3,FALSE)		3					1	1	3			1	1	1	1	1															1	=	=											
+2140161	METAMIZOL SODICO 300 MG REG ISP	CM	5																																=	=											
+2170143	METAMIZOL SUPOSITORIO 250 MG REG ISP	SUP	=VLOOKUP(A347,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130176	METILPREDNISOLONA       4 MG REG ISP	CM	=VLOOKUP(A348,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130177	METILPREDNISOLONA     16 MG. REG ISP	CM	=VLOOKUP(A349,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130178	METILPREDNISOLONA     40 MG. REG ISP	FC	=VLOOKUP(A350,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130179	METILPREDNISOLONA     80 MG.	FC	20593																																=	=											
+2130180	METILPREDNISOLONA   125 MG. REG ISP	FC	=VLOOKUP(A352,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130181	METILPREDNISOLONA   500 MG. REG ISP	FC	=VLOOKUP(A353,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130182	METILPREDNISOLONA 1000 MG. REG ISP	FC	=VLOOKUP(A354,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130183	METILPREDNISOLONA ACETATO 40  MG	FA	4891																																=	=											
+2140339	METIMAZOL 10 MG THYROZOL	CM	=VLOOKUP(A356,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160183	METOCLOPRAMIDA 10MG/2ML REG ISP	AM	=VLOOKUP(A357,[1]Hoja3!$A$4:$C$653,3,FALSE)																											3		1			=	=											
+2140168	METOTREXATO 2,5 MG BLISTER ONCOFARMA ISP	CM	=VLOOKUP(A358,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130186	METRONIDAZOL  250 MG CM RANURADO REG ISP	CM	=VLOOKUP(A359,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130188	METRONIDAZOL 500 MG NO BP FILTRA REG ISP	AM	=VLOOKUP(A360,[1]Hoja3!$A$4:$C$653,3,FALSE)			12	11	1	7	6	5	23	11	9	18	18	15	16	37	8	12	7	7	8	5	25	5	4	7	18	10	6	26	6	=	=											
+2140364	MICOFENOLATO 125 GR (FRACCIONAMIENTO)	CP	=VLOOKUP(A361,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140279	MICOFENOLATO 180 MG REG ISP	CM	=VLOOKUP(A362,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140169	MICOFENOLATO 250MG REG ISP	CP	=VLOOKUP(A363,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140288	MICOFENOLATO 360 MG REG ISP	CP	=VLOOKUP(A364,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140170	MICOFENOLATO 500 MG REG ISP	CM	=VLOOKUP(A365,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130189	MICONAZOL 2 % GEL REG ISP	PM	=VLOOKUP(A366,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2120038	MIDAZOLAM 15 MG/3ML REG ISP CHILE,PFIZER	AM	=VLOOKUP(A367,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2120039	MIDAZOLAM 5 MG/ 1 ML REG ISP CHILE,PFIZE	AM	=VLOOKUP(A368,[1]Hoja3!$A$4:$C$653,3,FALSE)													1																			=	=											
+2120040	MIDAZOLAM 50 MG/10 ML REG I.S.P.	AM	=VLOOKUP(A369,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2120058	MIDAZOLAN 7.5 MG REG I.S.P.	CM	=VLOOKUP(A370,[1]Hoja3!$A$4:$C$653,3,FALSE)		0.5						0.5			0.5																					=	=											
+2160184	MILRINONA 10 MG. COROTROPE REG ISP	FA	=VLOOKUP(A371,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2120041	MORFINA 10 MG/1ML REG I.S.P.	AM	=VLOOKUP(A372,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170150	MULTIVITAMINICO/ZIN(ADEKS)	FC	=VLOOKUP(A373,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170151	N-ACETIL-CISTEINA 15 ML.	FC	=VLOOKUP(A374,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160194	NALOXONA 0,4MG/1ML AM REG ISP	AM	=VLOOKUP(A375,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130193	NEOMICINA  SULFATO 500 MG  RANURADO  ISP	CM	147																																=	=											
+2160197	NEOSTIGMINA 0,5MG/1ML REG ISP	AM	=VLOOKUP(A377,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140174	NEOSTIGMINA 15 MG REG ISP	CM	79																																=	=											
+2160304	NEUPOGEN	FA	=VLOOKUP(A379,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130194	NEVIRAPINA 200mg	CM	=VLOOKUP(A380,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170155	NEVIRAPINE 50 MG/5 ML.	FC	=VLOOKUP(A381,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140177	NIFEDIPINO   10 MG CP BLANDAS  REG ISP	CP	32																																=	=											
+2140289	NIFEDIPINO  20 MG CM RETARD RANURADO ISP	CP	=VLOOKUP(A383,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140286	NIFEDIPINO 10 MG CM  RETARD RANURADO ISP	CP	=VLOOKUP(A384,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140274	NIFEDIPINO 10 MG CM RANURADOS REG ISP	CM	=VLOOKUP(A385,[1]Hoja3!$A$4:$C$653,3,FALSE)											1	1			3		9									3	3	3	3	9		=	=											
+2130195	NISTATINA  500.000 U.I. RANURADO REG ISP	CM	84																																=	=											
+2130196	NISTATINA 100.000 UI CREMA REG ISP	TU	=VLOOKUP(A387,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130198	NISTATINA GOTAS (MICOSTATIN)	FC	=VLOOKUP(A388,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130200	NITROFURANTOINA 100 MG. RANURADO REG ISP	CM	=VLOOKUP(A389,[1]Hoja3!$A$4:$C$653,3,FALSE)								2		6																						=	=											
+2130201	NITROFURANTOINA 25 MG/ 5 ML 60 ML    ISP	FC	=VLOOKUP(A390,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=SUM(E390:AI390)	=AJ390*D390											
+2130204	NITROFURANTOINA MACR 100MG REG ISP	CP	=VLOOKUP(A391,[1]Hoja3!$A$4:$C$653,3,FALSE)															3	3	3	12	4		24											=	=											
+2130202	NITROFURANTOINA MACR 50 MG  REG ISP	CP	=VLOOKUP(A392,[1]Hoja3!$A$4:$C$653,3,FALSE)																									1							=	=											
+2130203	NITROFURANTOINA MACR.25 MG	CM	=VLOOKUP(A393,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160208	NITROPRUSIATO SODICO 50MG LIOF.  REG ISP	AM	=VLOOKUP(A394,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160209	NOREPINEFRINA 4 MG 4ML REG ISP	AM	=VLOOKUP(A395,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130209	NORVIR  80 MG/ML.240 ML.	FC	147634.52																																=	=											
+2180121	NTP - 1440 PERIFERICA	BS	32409.3022																																=	=											
+2180122	NTP - 2053 CENTRAL	BS	42008.3472																																=	=											
+2180115	NUTRICION PARENTERAL 493 ML	ML	=VLOOKUP(A399,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2180114	NUTRICION PARENTERAL 562 ML	ML	=VLOOKUP(A400,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2180119	NUTRICION PARENTERAL DE 1 A 3 LITROS	UD	=VLOOKUP(A401,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2180091	NUTRIFLEX BASAL	UD	27730																																=	=											
+2140186	OMEPRAZOL  20 MG BLISTER BIOEQUIVALENCIA	CP	=VLOOKUP(A403,[1]Hoja3!$A$4:$C$653,3,FALSE)	14				1	1		1	1	3									2	6												=	=											
+2140185	OMEPRAZOL  MAGNESICO 10 MG	CM	=VLOOKUP(A404,[1]Hoja3!$A$4:$C$653,3,FALSE)								2	6													2	6			2	2					=	=											
+2140306	OMEPRAZOL 10 MG, (LOMEX)	CP	258.8538												2	2	2	2		5		2	4												=	=											
+2140307	OMEPRAZOL 20 MG (LOMEX)	CP	=VLOOKUP(A406,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160213	OMEPRAZOL 40 MG LIOFILIZADO REG ISP	AM	=VLOOKUP(A407,[1]Hoja3!$A$4:$C$653,3,FALSE)		9			4	5		3	3			1	3	3	5	9	6	2	1	2		6	6			1	1		1	4		=	=											
+2190051	ONDASENTRON 8 MG	FC	=VLOOKUP(A408,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130353	OSELTAMIVIR 30MG FRAC.	CP	189.892																																=	=											
+2130352	OSELTAMIVIR 45MG FRAC.	CP	193.6784																																=	=											
+2130351	OSELTAMIVIR 60MG FRAC.	CP	180.1254																																=	=											
+2130312	OSELTAMIVIR 75 MG.	CP	823.295																																=	=											
+2170286	OSELTAMIVIR SUSPENSION	FC	1257.029																																=	=											
+2140188	OXCARBAZEPINA 600 MG REG ISP	CM	569.7487																																=	=											
+2140189	OXIBUTINA  5 MG CM RANURADO REG ISP	CM	=VLOOKUP(A415,[1]Hoja3!$A$4:$C$653,3,FALSE)					3	21		10	9	19			8	17	2				1.5					10						6		=	=											
+2170162	OXIBUTININA 5 MG/5 ML FC 60 ML	FC	=VLOOKUP(A416,[1]Hoja3!$A$4:$C$653,3,FALSE)												1							1										1			=	=											
+2140192	PANCREOLIPASA 10.000 UI CAP REG ISP	CP	=VLOOKUP(A417,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140194	PANCREOLIPASA 25.000 UI REG ISP	CM	=VLOOKUP(A418,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160220	PAPAVERINA 80 MG. REG ISP	AM	=VLOOKUP(A419,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140197	PARACETAMOL   100MG REG ISP	CM	=VLOOKUP(A420,[1]Hoja3!$A$4:$C$653,3,FALSE)										18		18							18													=	=											
+2140198	PARACETAMOL   500MG RANURADO CHILE	CM	=VLOOKUP(A421,[1]Hoja3!$A$4:$C$653,3,FALSE)	23	38	27	9	26	34	137	21	87	47	11	13	30	60	40	55	32	27	37	38	31	30	17	24	3	2	28	29.5	4.5	25.5	12	=	=											
+2170165	PARACETAMOL 125 MG	SUP	=VLOOKUP(A422,[1]Hoja3!$A$4:$C$653,3,FALSE)																													1			=	=											
+2170166	PARACETAMOL GOTAS 100MG/ML FC 15 ML ISP	FC	=VLOOKUP(A423,[1]Hoja3!$A$4:$C$653,3,FALSE)		1				1	2	2	1	4		1	1	2		1	1	1	2	1		1	2		1	1	3	5	1	2	2	=	=											
+2150088	PASTA LASSAR CAJAS DE 30 GR  REG ISP	G	=VLOOKUP(A424,[1]Hoja3!$A$4:$C$653,3,FALSE)								8							10						10											=	=											
+2140304	PENICILAMINA 250 MG	CP	766.3022																																=	=											
+2130212	PENICILINA G BENZATINA 1.200.000 UI  ISP	FC	=VLOOKUP(A426,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130215	PENICILINA G SODICA 1.000.000 UI.FA ISP	FA	=VLOOKUP(A427,[1]Hoja3!$A$4:$C$653,3,FALSE)		6		6	2			6	2	6			4	4	4								5									=	=											
+2160225	PIRIDOXINA 100MGX1ML  (VIT.B6) REG ISP	AM	=VLOOKUP(A428,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170168	PERENTERYL	SB	=VLOOKUP(A429,[1]Hoja3!$A$4:$C$653,3,FALSE)	2		2	2	2	2		2	2																							=	=											
+2200049	PNEUMO 23(VAC.ANTINEUMOCOCICA	DO	=VLOOKUP(A430,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2150137	POLIETILENGLICOL 3350	G	=VLOOKUP(A431,[1]Hoja3!$A$4:$C$653,3,FALSE)					200			200							200					200						200						=	=											
+2170181	POLIVITAMINICO JBE.(TOL 12 ) REG ISP	FC	=VLOOKUP(A432,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170260	POTASIO CITRATO KANACITRIN	SO	=VLOOKUP(A433,[1]Hoja3!$A$4:$C$653,3,FALSE)					2	2		1	2	5																						=	=											
+2170189	POVIDONA YODADA 10 % 250 ML.	FC	=VLOOKUP(A434,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130224	PREDNISOLONA 20 MG/5ML	FC	=VLOOKUP(A435,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130226	PREDNISONA 20MG CM RANURADO REG ISP	CM	=VLOOKUP(A436,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130228	PREDNISONA 5 MG RANURADO GRANDE BENG ISP	CM	=VLOOKUP(A437,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200061	PREVENAR VIAL 0,5 ML	DO	46920.9427																																=	=											
+2140216	PROPANOLOL   10 MG CM RANURADO REG ISP	CM	=VLOOKUP(A439,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140217	PROPANOLOL   40 MG CM RANURADO REG ISP	CM	=VLOOKUP(A440,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160234	PROPANOLOL 1MG/1ML. REG ISP	AM	=VLOOKUP(A441,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140218	PROPILTIOURACILO 50 MG CM RANURADO ISP	CM	14.9308																																=	=											
+2110100	PROPOFOL 200 MG.20 ML.	AM	=VLOOKUP(A443,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200050	PROSTAGLANDINA 500 MG.1 ML.	AM	=VLOOKUP(A444,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160241	PROSTANGLANDINA 500 MCG/ ML REG ISP	AM	283533.3667																																=	=											
+2160242	PROTAMINA SULFATO 50 MG/5ML REG ISP	FA	=VLOOKUP(A446,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140220	RANITIDINA  150MG CM RANURADO REG ISP	CM	=VLOOKUP(A447,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160245	RANITIDINA 50 MG / 2 ML	AM	=VLOOKUP(A448,[1]Hoja3!$A$4:$C$653,3,FALSE)				3	6	3		9	3	3	2	6	3	17	6				7	5	3						6	6	3	18		=	=											
+2150071	RESINA INTERCAMBIO NA O CA (KAYEXALATE)	G	=VLOOKUP(A449,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160248	RH-DORNASA-ALFA 2,5 MG/2ML DNSA	AM	=VLOOKUP(A450,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130230	RIFAMPICINA  100MG C/5 ML REG ISP	FC	=VLOOKUP(A451,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130231	RIFAMPICINA 150 MG REG ISP	CP	=VLOOKUP(A452,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140224	RISPERIDONA 1MG	CM	=VLOOKUP(A453,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140225	RISPERIDONA 3MG	CM	=VLOOKUP(A454,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=SUM(E454:AI454)	=AJ454*D454											
+2130232	RITONAVIR 100 MG.	CP	=VLOOKUP(A455,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2190080	RITUXIMAB 100 MG/ 10 ML	FA	=VLOOKUP(A456,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2190088	RITUXIMAB 500MG/50ML	AM	=VLOOKUP(A457,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160250	ROCURONIO BROMURO  50MG * 5 ML ESMERON	FC	=VLOOKUP(A458,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160311	SACARATO DE HIERRO  100MG/5ML  REG ISP	AM	=VLOOKUP(A459,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170204	SALBUTAMOL INH. 100 MCG FC 200DOSIS ESPE	FC	=VLOOKUP(A460,[1]Hoja3!$A$4:$C$653,3,FALSE)																						1										=	=											
+2170208	SALBUTAMOL P/NEBUL.5MG/ML 100 ML	FC	4597.455																																=	=											
+2170279	SALES REHIDRAT ORAL 60 MEQ NA REG ISP	SO	=VLOOKUP(A462,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170213	SALES REHIDRAT ORAL 90 MEQ NA REG ISP	SO	=VLOOKUP(A463,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170264	SALMETEROL + FLUTICASONA 125	UD	=VLOOKUP(A464,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140227	SALOFALK	CM	=VLOOKUP(A465,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140230	SERTRALINA  50MG	CM	=VLOOKUP(A466,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140380	SILDENAFIL 5 MG	CP	89.9997																																=	=											
+2140297	SILDENAFIL 50 MG.	CP	=VLOOKUP(A468,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140379	SILDENAFIL 6,25 MG	CP	89.9997																																=	=											
+2170263	SIROLIMUS	FC	=VLOOKUP(A470,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140305	SIROLIMUS 1 MG	CM	=VLOOKUP(A471,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2170215	SOLUCION LAVADO TOTAL (COLONOS)	LT	=VLOOKUP(A472,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160262	SUCCINIL COLINA CLORURO 100MG. REG ISP	FA	=VLOOKUP(A473,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130240	SULB -CEFOPERAZONA 500/ 1000 MG ISP	FC	=VLOOKUP(A474,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140291	SULFATO DE ZINC 10 MG CM RANURADO ISP	CM	=VLOOKUP(A475,[1]Hoja3!$A$4:$C$653,3,FALSE)																						2	6			2	2	2	2	6		=	=											
+2170219	SULFATO FERROSO 25MG/ML FC 20 ML	FC	423.3726																																=	=											
+2140237	TACROLIMO 1 MG (PROGRAF) REG ISP	CP	=VLOOKUP(A477,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140382	TACROLIMUS 0.25 MG. CP FRACCIONAMIENTO	CP	349.9954																																=	=											
+2140287	TACROLIMUS 0.5 MG (PROGAF) REG ISP	CP	=VLOOKUP(A479,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140361	TACROLIMUS 1 MG. (T-IN MUN)	CP	=VLOOKUP(A480,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140295	TACROLIMUS 5 MG (PROGRAF) REG ISP	CM	=VLOOKUP(A481,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140374	TACROLIMUS XL 0.5MG	CM	=VLOOKUP(A482,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140373	TACROLIMUS XL 1MG	CM	=VLOOKUP(A483,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140385	TACROLIMUS XL 5MG	CM	=VLOOKUP(A484,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140367	TALIDOMIDA 100MG.	CM	714					4																											=	=											
+2130247	TAZOBAC/PIPERACILINA 500MG/4G TAZONAM	FA	=VLOOKUP(A486,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130249	TEICOPLANINA 400 MG.(TARGOCID)	FA	67566.0773																																=	=											
+2130348	TENOFOVIR DE 300MG	UD	=VLOOKUP(A488,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160269	TESTOSTERONA 250 MG. REG ISP	AM	=VLOOKUP(A489,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160270	TIAMINA (VIT B1) 30MG/1ML REG ISP	AM	=VLOOKUP(A490,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160272	TIMOGLOBULINA REG ISP	UD	=VLOOKUP(A491,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2190068	TIOGUANINA 40 MG	CM	=VLOOKUP(A492,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160273	TIOPENTAL 500MG/POLVO PENTOTAL	FA	1493.6078																																=	=											
+2140245	TIORIDAZINA   25 MG CM RANURADO REG ISP	CM	=VLOOKUP(A494,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130258	TOBRAMICINA 300 MGX 5 ML.	AM	=VLOOKUP(A495,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140294	TOPIRAMATO 100 MG	CM	1158.0983																																=	=											
+2140362	TOPIRAMATO 25 MG	CM	398.5667																																=	=											
+2190082	TRETINOINA VESANOID	CP	=VLOOKUP(A498,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130350	TRIAMCINOLONA ACETONIDO 40MG / 1ML	AM	=VLOOKUP(A499,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2200059	TWINRIX JUNIOR	DO	11927.16																																=	=											
+2170289	UREA 10% EN NOVOBASE II	PT	4199.9979																																=	=											
+2170288	UREA 5% EN NOVOBASE II	PT	3749.9994																																=	=											
+2130267	VALGANCICLOVIR 10 ML//ML JARABE	FC	4549.9858																																=	=											
+2130264	VALGANCICLOVIR 450MG REG ISP	CM	=VLOOKUP(A504,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130266	VANCOMICINA 500 MG REG ISP	FC	=VLOOKUP(A505,[1]Hoja3!$A$4:$C$653,3,FALSE)					6	6																				2						=	=											
+2160290	VECURONIO BROMURO 10 MG NO B.P. CALIDAD	AM	=VLOOKUP(A506,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140285	VIGABATRIN 500 MG REG ISP	CM	=VLOOKUP(A507,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140275	CP	=VLOOKUP(A508,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140261	VITAMINA E 400 UI CP BLANDAS  REG ISP	CM	=VLOOKUP(A509,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130302	VORICONAZOL 200 MG	CM	=VLOOKUP(A510,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130305	VORICONAZOL 200 MG	FA	=VLOOKUP(A511,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130301	VORICONAZOL 50 MG	CM	=VLOOKUP(A512,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2140262	WARFARINA SOD. CRIST. 2,5 MG. REG ISP	CM	388.5861																																=	=											
+2130268	ZIDOVUDINA 10 MG/ML 200 ML	AM	=VLOOKUP(A514,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130269	ZIDOVUDINA 300 MG	CM	=VLOOKUP(A515,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2130270	ZIDOVUDINA AZT 100 MG	CP	=VLOOKUP(A516,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2180004	AGUA  DESTILADA  500 ML	UD	=VLOOKUP(A517,[1]Hoja3!$A$4:$C$653,3,FALSE)								20									6		2	20							20				3	=	=											
+2180005	AGUA BIDESTILADA 1LT.	AM	=VLOOKUP(A518,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=SUM(E518:AI518)	=AJ518*D518											
+2180023	BICARBONATO 2/3 MOLAR 250 ML	UD	=VLOOKUP(A519,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160040	BICARBONATO S0DIO 8.4 % 10ML REG ISP	AM	=VLOOKUP(A520,[1]Hoja3!$A$4:$C$653,3,FALSE)			10																									10				=	=											
+2160051	CALCIO GLUCONATO  10%/10ML REG ISP	AM	=VLOOKUP(A521,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160068	CLORURO DE POTASIO  10%10ML REG ISP	AM	=VLOOKUP(A522,[1]Hoja3!$A$4:$C$653,3,FALSE)				15	50	30			50			40	50		40		20	20	40				30	20				30		50	20	=	=											
+2160071	CLORURO DE SODIO 10%  20 ML RGE ISP	AM	=VLOOKUP(A523,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160127	FOSFATO MONOPOTASICO 15 % 10 ML REG ISP	AM	=VLOOKUP(A524,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2180063	GLUCOSA 10 % 500 ML	AM	=VLOOKUP(A525,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2180066	GLUCOSA 20 % 500 ML	AM	=VLOOKUP(A526,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2180068	GLUCOSA 30 % 500ML	AM	=VLOOKUP(A527,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2180073	GLUCOSA 5% 1000 ML	AM	=VLOOKUP(A528,[1]Hoja3!$A$4:$C$653,3,FALSE)		20	10		10			10	20								10	20				10	10	10							20	=	=											
+2180111	GLUCOSA 5% 500 ML	AM	=VLOOKUP(A529,[1]Hoja3!$A$4:$C$653,3,FALSE)			10				20	20	16								10	5					10	20			20			10		=	=											
+2180076	GLUCOSA 50 % 500 ML	AM	=VLOOKUP(A530,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2180081	GLUCOSALINO ISOTONICO 1000 ML	AM	=VLOOKUP(A531,[1]Hoja3!$A$4:$C$653,3,FALSE)			10				10					5			10		10	5	10			5					5					=	=											
+2180082	GLUCOSALINO ISOTONICO 500ML	AM	=VLOOKUP(A532,[1]Hoja3!$A$4:$C$653,3,FALSE)	20	10							20	10		20			20			10	10						20		20			5	5	=	=											
+2180084	HAES ESTERIL 6% 500 ML VOLUVENT	AM	=VLOOKUP(A533,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2160175	MAGNESIO SULFATO 25% 5ML REG ISP	AM	=VLOOKUP(A534,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2180089	MANITOL 15% 500 ML.	AM	=VLOOKUP(A535,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2180095	RINGER LACTATO 500 ML.	AM	=VLOOKUP(A536,[1]Hoja3!$A$4:$C$653,3,FALSE)																																=	=											
+2180097	SODIO CLORURO 0,9% 1000ML	AM	=VLOOKUP(A537,[1]Hoja3!$A$4:$C$653,3,FALSE)		2	10			10	5	10	10			10			5		10	10					10				5	10			10	=	=											
+2180101	SODIO CLORURO 0,9% 500 ML	AM	=VLOOKUP(A538,[1]Hoja3!$A$4:$C$653,3,FALSE)	10	10	10	20	20	20	20	20	20	20		20	20	20	20		20	20		20		20	20	20			20					=	=											
+	CLORURO DE SODIO 10%  10 ML RGE ISP	AM			20	40	15	50	100			100			30	100		100		20	20				30	40	100				50		100	50	=	=											
+2130014	ALBENDAZOL 400MG	CM	673					2	2		14																								=	=											
+	PARACETAMOL 80MG	CM																																12	=	=											
+																																			=	=											
+																																			=	=											
+																																			=	=											
+																																				=SUM(AK5:AK544)											
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
+																																															
